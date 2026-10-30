@@ -166,4 +166,5 @@ If you wish to connect a live Supabase PostgreSQL database:
 - `npm run lint`: Runs Oxlint checks across source files.
 #   s t o c k s  
  #   s t o c k s  
+ #   s t o c k s  
  
