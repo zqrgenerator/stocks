@@ -167,4 +167,5 @@ If you wish to connect a live Supabase PostgreSQL database:
 #   s t o c k s  
  #   s t o c k s  
  #   s t o c k s  
+ #   s t o c k s  
  
