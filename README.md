@@ -165,4 +165,5 @@ If you wish to connect a live Supabase PostgreSQL database:
 - `npm run preview`: Locally previews the production build.
 - `npm run lint`: Runs Oxlint checks across source files.
 #   s t o c k s  
+ #   s t o c k s  
  
